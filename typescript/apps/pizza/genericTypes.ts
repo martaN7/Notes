@@ -69,8 +69,8 @@
 //
 // bookShelf.addItemToCatalog(new BookItem());
 // productShelf.addItemToCatalog(new ProductItem());
-//
-// // funkcje
+
+// funkcje
 // function shortenArray<T>(data: Array<T>, amountToShorten: number): Array<T> {
 //     return data.splice(amountToShorten, data.length);
 // }
@@ -78,7 +78,7 @@
 // const stringArray: string[] = ['c#', 'c++', 'TS'];
 //
 // const result = shortenArray<string>(stringArray, 2);
-//
+
 // // type constraint dla funkcji
 //
 interface MeetingResource {
