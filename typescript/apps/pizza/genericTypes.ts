@@ -172,7 +172,7 @@ stack.add(9);
 // console.log(stack.remove());
 // console.log(stack.peek());
 // console.log(stack.remove());
-// console.log(stack.remove());
+// console.log(stack.remove());,
 
 // queue FIFO - first in, first out (data structure)
 
